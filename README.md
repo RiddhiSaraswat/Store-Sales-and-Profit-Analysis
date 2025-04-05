@@ -105,12 +105,8 @@ Here’s what I might add in future versions:
 - 💡 **Recommendation engine** for upselling popular products
 
 ---
-
-## 🤝 Collaboration
-
-This was a collaborative project done as part of a course / team activity (you can mention the course or teammates here if applicable).
-
-Feel free to fork it, play with it, and suggest ideas. Open to contributions!
+## Collaboration
+🔍 This project was independently completed as a personal initiative to enhance my data analysis skills and apply theoretical knowledge to a real-world dataset.
 
 ---
 
